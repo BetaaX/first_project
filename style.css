@@ -62,6 +62,10 @@ section .container {
   justify-content: space-between;
 }
 
+.character {
+  width: 540px;
+}
+
 .videogame-list img {
   height: 24px;
 }
